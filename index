@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Yijia Sun's Assignment 3 - Future Storytelling Page 1 (Homepage)</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Bevan&display=swap');
+      </style>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Bevan&family=Satisfy&display=swap');
+    </style>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Bevan&family=Mooli&family=Satisfy&display=swap');
+    </style>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <img src="assets/images/future_vision.png" alt="Future Vision in block type over gradient floating squares">
+    </header>
+    <main>
+        <div class="row1">
+            <h1>
+                MY FUTURE VISION – A MORE INCLUSIVE, BIAS-FREE INTERNET
+            </h1>
+            <h5>
+                Yijia Sun / Step. 13th, 2023
+            </h5>
+        </div>
+        <div class="row2">
+            <h3>
+                <em>The Internet was created for the purpose of being inclusive and demarginalized, not propagating bias. However, the Internet industry at present is largely dominated by high-tech countries, the white, as well as males.</em>
+            </h3>
+        </div>
+        <div class="row1">
+            <h2>
+                Internet Bias 
+            </h2>
+        </div>
+        <div class="row4">
+            <h4>
+                Race
+            </h4>
+            <br>
+            <p>
+                Racial bias on the Internet is called "Techno-racism". It refers to the phenomenon that digital techonology used by government agencies or companies can unwittingly discriminate against people of color. For example, ficial recognition system may mistakenly or failed to recognize a person of black, inducing unexpected consequence. Other Techno-racism includes unemployment fraud systems and risk assessment tools, etc. (Karimi, 2021)
+                <br>
+                <br>
+                <em>“A study by the National Institute of Standards and Technology of over 100 facial recognition algorithms found that they falsely identified African American and Asian faces 10 to 100 times more than Caucasian faces.”</em> 
+                <br>
+                <br>
+                <em>“federal testing found facial recognition technology generally performed better when applied to men with lighter skin and worse on darker-skinned women.”</em>
+            </p>
+        </div>
+        <div class="row5">
+            <img src="assets/images/ficial recog.png" alt="Racial Bias in Ficial recognition" style="float: right; width: 500px; height: 350px;">
+        </div>
+        <div class="row4">
+            <h4>
+                Gender
+            </h4>
+            <br>
+            <p>
+                Research found that gender-neutral internet searches yield results that nonetheless produce male-dominated output -- for example, when searching gender-neutral word "person" or "human", it turns out that the proportion of male images yielded was higher in nations with greater gender inequality (roughly 90% men to 10% women in Hungary or Turkey!) while lower in nations with smaller gender inequality. (Vlasceanu & Amodio, 2022)
+                <br>
+                <br>
+                <em>"Humans increasingly rely on artificial intelligence (AI) for efficient and objective decision-making, yet there is increasing concern that algorithms used by modern AI systems produce discriminatory outputs, presumably because they are trained on data in which societal biases are embedded."</em>
+                <br>
+                <br>
+                <em>“Gender disparity associated with high- vs. low-inequality algorithmic outputs guided the formation of gender-biased prototypes and influenced hiring decisions in novel scenarios.” </em>
+            </p>
+        </div>
+        <div class="row5">
+            <img src="assets/images/UN-Women.png" alt="Gender Bias on the Internet", width="800px", height="320px">
+        </div>
+        <div class="row3">
+            <h3 id="bottom">
+                <mark>As a result, I want the future to be more inclusive, bias-free, and accessible to people who are usually marginalized in the field of technology and the Internet.</mark>
+            </h3>
+        </div>
+        <div class="row2">
+            <p>
+                This is hard to generate from the present machine learning algorithm because the algorithm is what humans feed the machine. Nonetheless, the current issue largely results from the lack of black people or women in the tech industry and professions. Clearly, <strong>no black people and women, no inclusiveness of these people</strong>.
+                <br>
+                The lack of professions for black people and women is largely associated with people’s unawareness that people of color or women can also be smart and strong, thus they give them less education or employment opportunities. In my opinion, the rooted problems lie in that, for the racial bias issue, the civilization of various races is covered under the highlight of technological countries and advanced e-products. This is not to say that historic civilization is eliminated; they are still reported, but without enough emphasis. For the gender bias issue, people recognize women's image from stereotypes and the male gaze, lacking the autonomy to learn female beauty which can also be shown in politics or sports courts with flexibility.
+            </p>
+        </div>
+        <div class="row3">
+            <h3 id="top">
+                Whereas high-tech is important, it is also rapid and changing. What’s permanent is <em>culture</em>, <em>civilization</em>, and <em>human values</em>. These are also what AI cannot synthesize, because they belong to the treasure of human intelligence.
+            </h3>
+        </div>
+        <div class="row2">
+            <p>
+                In the next sections, we will look at human civilization focusing mostly on the Asian and African cultures and female images in the new era respectively, to gain a more straightforward vision of the future in my mind.
+            </p>
+        </div>
+        <div class="row1">
+            <h2>
+                Human Civilization – Not just White and High-Tech 
+            </h2>
+        </div>
+        <div class="row5">
+            <img src="assets/images/civiliization -asia 1.jpeg" alt="Asian Civilization">
+        </div>
+        <div class="row4">
+            <h4>
+                Asian
+            </h4>
+            <br>
+            <p>
+                The <strong>Kaicheng Stone Classics (開成石經)</strong> or Tang Stone Classics are a group of twelve early Chinese classic works carved on the orders of Emperor Wenzong of the Tang dynasty in 833–837 (Kaicheng era) as a reference document for scholars. The works recorded are:
+            </p>
+            <ul>
+                <li>
+                    Book of Changes or I Ching (易經 Yìjīng)
+                </li>
+                <li>
+                    Book of Documents (書經 Shūjīng)
+                </li>
+                <li>
+                    Book of Songs (詩經 Shījīng)
+                </li>
+                <li>
+                    Rites of Zhou (周禮 Zhōulǐ, originally part of the Book of Rites)
+                </li>
+                <li>
+                    Ceremonies and Rites (儀禮 Yílǐ, originally part of the Book of Rites)
+                </li>
+                <li>
+                    Book of Rites (禮記 Lǐjì)
+                </li>
+                <li>
+                    The Commentary of Zuo (左傳 Zuǒzhuàn) on the Spring and Autumn Annals
+                </li>
+                <li>
+                    The Commentary of Gongyang (公羊傳 Gōngyáng Zhuàn) on the Spring and Autumn Annals
+                </li>
+                <li>
+                    The Commentary of Guliang (穀梁傳 Gǔliáng Zhuàn) on the Spring and Autumn Annals
+                </li>
+                <li>
+                    The Analects (論語 Lúnyǔ)
+                </li>
+                <li>
+                    Classic of Filial Piety (孝經 Xiàojīng)
+                </li>
+                <li>
+                    Erya (爾雅 Ěryǎ)
+                </li>
+            </ul>
+            <p>
+                <br>
+                <a href="http://127.0.0.1:3000/d:/DKU/DKU@Duke/assignment3-main/asia" style="float: right;">
+                    Learn more...
+                </a>
+            </p>
+        </div>
+        <div class="row4">
+            <h4>
+                Africa
+            </h4>
+            <br>
+            <p>
+                <a href="https://grandegyptianmuseum.org/" target="_blank"><strong>The Grand Egyptian Museum</strong></a>, often abbreviated as GEM, is a world-renowned cultural and historical institution located in Giza, Egypt. This magnificent museum is a celebration of Egypt's rich and ancient heritage, housing an unparalleled collection of artifacts and treasures that span thousands of years of Egyptian history.
+            </p>
+            <ul>
+                <li>
+                    <strong>Unveiling Egypt's Glorious Past:</strong> The Grand Egyptian Museum is an architectural marvel nestled in the shadows of the Giza Pyramids. It stands as a testament to Egypt's commitment to preserving and showcasing its illustrious past. 
+                </li>
+                <li>
+                    <strong>A Treasure Trove of Artifacts:</strong> GEM is home to an astonishing array of ancient Egyptian artifacts, numbering in the hundreds of thousands. From the iconic golden mask of Tutankhamun to monumental statues, intricate jewelry, mummies, and papyrus scrolls, the museum boasts a collection that spans over 5,000 years of history. It offers a comprehensive view of the culture, art, and daily life of the pharaohs and the people of ancient Egypt.
+                </li>
+                <li>
+                    <strong>A Symbol of National Pride:</strong> The Grand Egyptian Museum is a source of immense national pride for Egypt. It showcases the country's commitment to preserving its heritage and sharing it with the world. 
+                </li>
+            </ul>
+            <p>
+                <br>
+                <a href="http://127.0.0.1:3000/d:/DKU/DKU@Duke/assignment3-main/africa" style="float: right;">
+                    Learn more...
+                </a>
+            </p>
+        </div>
+        <div class="row5">
+            <img src="assets/images/civiliization -africa 1.jpeg" alt="African Civilization" style="width:600px; height:350px;">
+        </div>
+        <div class="row3">
+            <h3 id="bottom">
+                Liu, Cixin in his fiction <em>The three body problem</em> stated that the best way to store human heritage is to "carve the words on the stone". <mark>Can we also retain the human memories in the digital stone so that humans in the far future will still learn them?</mark>
+            </h3>
+        </div>
+        <div class="row1">
+            <h2>
+                We Women Recognize Ourselves – Not the Internet
+            </h2>
+        </div>
+        <div class="row4">
+            <h4>
+                Sarah Storey
+            </h4>
+            <br>
+            <p>
+                After being born without a functioning left hand, Sarah Storey faced a lot of bullying and prejudice growing up. She didn’t let that stop her, though. Instead, she went on to become Britain’s most decorated Paralympian, earning 27 medals, including 17 gold medals, in cycling and swimming. (CROTEAU, 2023)
+            <br>
+            <br>
+                Throughout her career, she has become a symbol of perseverance and excellence in Paralympic sports, inspiring countless individuals with disabilities to pursue their dreams in athletics. Her accomplishments have earned her widespread recognition and respect in the world of sports, making her one of Britain's most revered Paralympians.
+            </p>
+            <p>
+                <br>
+                <a href="http://127.0.0.1:3000/d:/DKU/DKU@Duke/assignment3-main/women" style="float: right;">
+                    Learn more...
+                </a>
+            </p>
+        </div>
+        <div class="row5">
+            <img src="assets/images/storey.jpg" alt="Sarah Storey">
+        </div>
+        <div class="row5">
+            <img src="assets/images/Li.jpg" alt="Feifei Li">
+        </div>
+        <div class="row4">
+            <h4>
+                Feifei Li
+            </h4>
+            <br>
+            <p>
+                Born in Beijing, China on Oct. 30, 1976, Fei-Fei Li is a prominent figure in the field of artificial intelligence (AI) and computer vision. She is known for significant contributions to machine learning, particularly in areas like image recognition and visual understanding.
+            <br>
+            </p>
+            <ul>
+                <li>
+                    <strong>ImageNet and Convolutional Neural Networks (CNNs):</strong> One of Fei-Fei Li's most significant contributions is her leadership in the development of ImageNet, a large-scale dataset of labeled images. This dataset played a crucial role in advancing the field of computer vision. Under her guidance, the ImageNet project organized the ImageNet Large Scale Visual Recognition Challenge (ILSVRC), which led to significant advancements in the accuracy of image classification through the use of Convolutional Neural Networks (CNNs).
+                </li>
+                <li>
+                    <strong>Pioneering Research in Computer Vision:</strong> Fei-Fei Li's research has greatly expanded our understanding of computer vision. Her work has been instrumental in enabling machines to recognize objects, scenes, and patterns in visual data, with applications ranging from autonomous vehicles to medical imaging.
+                </li>
+            </ul>
+            <p>
+                <br>
+                <a href="http://127.0.0.1:3000/d:/DKU/DKU@Duke/assignment3-main/women" style="float: right;">
+                    Learn more...
+                </a>
+            </p>
+        </div>
+        <div class="row3">
+            <h3 id="bottom">
+                In China, there was graduate girl who dyed her hair pink commiting suicide under the pressure of online gossip; but there also exists woman fighting against unfair family role under the support of net people. Many women fight for rebuilding images; some failed, some succeeded. <mark>However, only making tries more, making the trace of women's battle more emphasized can we let people know women are far more than just sex, face, and supplemental income source.</mark>
+            </h3>
+        </div>
+        <div class="row2">
+            <h3>
+                <em>My future vision has not been ended yet. There is more information about Internet bias, human civilization and women's stories. I'll look up more on that. Hope the idea of being inclusive and bias-free in the field of Internet will offer us more possibilities in the future. Feel free to contact me if you are interested via <a href="mailto:ys359@duke.edu" target="_blank">ys359@duke.edu</a></em>.
+            </h3>
+        </div>
+    </main>
+
+    <footer>
+        <br>
+        Student work of Web-Based Multimedia Communications Fall 2023 Assignment 3 Page 1
+        <br>
+        <br>
+    </footer>
+</body>
+
+</html>

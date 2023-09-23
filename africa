@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Yijia Sun's Assignment 3 - Future Storytelling Page 3 (Afica)</title>
+   
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Bevan&display=swap');
+    </style>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Bevan&family=Satisfy&display=swap');
+    </style>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Bevan&family=Mooli&family=Satisfy&display=swap');
+    </style>
+    
+    <link rel="stylesheet" href="style-africa.css">
+</head>
+
+<body>
+  <header>
+      <img src="assets/images/future_vision.png" alt="Future Vision in block type over gradient floating squares">
+  </header>
+  
+  <main>
+    <div class="row1">
+        <h1>
+          BE THE PROUDEST: <br>
+        </h1>
+        <h2 id="title">
+            The Grand Egyptian Museum – The Treasury Only for Own National Culture
+        </h2>
+        <br>
+        <h4>
+          <a href="http://127.0.0.1:3000/d:/DKU/DKU@Duke/assignment3-main/index">Future Vision</a> | Human Civilization | Africa Episode
+        </h4>
+    </div>
+
+    <img src="assets\images\museum2.jpg" alt="The Grand Egyptian Museum at Night" style="width: 1200px; height: auto;">
+
+    <div class="row2">
+      <p>
+        <a href="https://grandegyptianmuseum.org/" target="_blank"><strong>The Grand Egyptian Museum (GEM)</strong></a>, is an iconic cultural institution located in Giza, Egypt. It is one of the most significant museums in the world, dedicated to the preservation, study, and exhibition of Egypt's rich history and cultural heritage.
+        It is situated near the Giza Pyramids, one of the most famous archaeological sites globally, and is considered an integral part of Egypt's cultural and historical landscape.
+      </p>
+    </div>
+
+    <div class="row2">
+      <p>
+        Egypt, as one of the four great ancient civilizations, it possesses a rich historical and cultural heritage along with unique customs and traditions, such as pyramids, the tombs of pharaohs, temples, hieroglyphics.
+        <u>As the world's largest museum, The Grand Egyptian Museum just houses a vast collection of artifacts of Egypt's own heritage. Through it, we can catch a glimpse of Egypt's vast civilization.</u>
+      </p>
+    </div>
+
+    <div class="row1">
+      <h2>
+        The Statue of Ramesses II
+      </h2>
+    </div>
+    <div class="row2">
+      <img src="assets\images\art1.jpg" alt="The Statue of Ramesses II" style="float: right; height: 600px; width: auto;">
+      
+      <p id="paraAdjust">
+        Ramesses II is a famous pharaoh in the history of ancient Egypt, presiding over what is considered the last glorious era of Egypt. Crafted around 1270 BCE during the 19th dynasty, the statue stood as a symbol of the pharaoh's indomitable rule. Originally erected in the ancient city of Heliopolis, it was later moved to the city of Memphis. The statue, carved from a single piece of red granite, reached an imposing height of 11 meters (36 feet), signifying the immense power and divinity attributed to Ramesses II.
+        Beyond its sheer size and grandeur, the statue bore inscriptions in hieroglyphics that extolled Ramesses II's numerous military conquests, architectural achievements, and divine authority. These inscriptions provided valuable historical insights into his reign and the politics of the time. Throughout the ages, the statue witnessed Egypt's transformation, from its heights of prosperity to its eventual decline.        
+        Rediscovered in the 19th century during archaeological excavations, the Statue of Ramesses II underwent careful restoration to preserve its majestic presence. Today, it serves as an enduring testament to the greatness of one of Egypt's most celebrated pharaohs and the enduring allure of the ancient Egyptian civilization. The statue stands as a tangible connection to a distant past, offering a glimpse into the history, artistry, and spirituality of this remarkable era.      
+      </p>
+
+
+    </div>
+
+    <div class="row1">
+      <h2 id="mask">
+        Tutankhamun's death mask
+      </h2>
+    </div>
+    <div class="row2">
+      <img src="assets\images\art2.jpg" alt="Tutankhamun's death mask" style="float: left; height: 400px; width: auto;">
+      
+      <p>
+        Tutankhamun's death mask carries with it a fascinating and storied history that mirrors the mysteries of ancient Egypt. This exquisite gold mask was created around 1323 BCE for the young Pharaoh Tutankhamun, also known as the "Boy King." Discovered in 1922 by archaeologist Howard Carter in the Valley of the Kings, the mask was found adorning the mummy of Tutankhamun within his tomb. It is believed to have played a crucial role in the Pharaoh's burial rituals, serving both as a protective amulet and as a representation of his divine kingship.<br><br>
+        The mask itself is a masterpiece of craftsmanship, symbolizing the opulence of Tutankhamun's era and the significance of his reign. It has become an enduring symbol of ancient Egypt's rich culture and the allure of its lost treasures. Beyond its aesthetic splendor, the death mask offers a glimpse into the religious and spiritual beliefs of the time, reflecting the Egyptian belief in the afterlife and the pharaoh's role as a conduit between mortals and the divine. Today, Tutankhamun's death mask continues to captivate the world as a priceless relic that bridges the gap between our modern fascination with Egyptology and the ancient mysteries of the past.      
+      </p>
+    </div>
+
+    <div class="row1">
+      <h2>
+        Narmer Palette
+      </h2>
+    </div>
+    <div class="row2">
+      <img src="assets\images\art3.jpg" alt="Tutankhamun's death mask" style="float: left; height: 400px; width: auto;">
+      
+      <p>
+        The Narmer Palette, also known as the Great Hierakonpolis Palette, is a compelling artifact that unfolds a significant chapter in the history of ancient Egypt. Crafted around 3100 BCE during the Early Dynastic Period, this slate palette serves as a symbolic representation of the unification of Upper and Lower Egypt under the reign of Pharaoh Narmer, also identified as Menes.<br><br>
+        Ancient Egyptians used palettes to grind minerals and create dark eye makeup, which they applied around their eyelids to reduce glare and protect against eye ailments. Some intricately carved palettes also had religious and ceremonial significance. This particular palette, discovered in 1898 at the Temple of Horus in the political, religious, and cultural center of Hierakonpolis during the predynastic period, chronicles the unification of Upper and Lower Egypt by King Narmer. 
+        <br>
+        <br>
+        <br>
+        <br>
+        <ul>
+          <li>The main scene on the palette depicts King Narmer wearing the "White Crown of Upper 
+            Egypt" while wielding a mace to subdue his enemies. He is depicted with a royal beard,
+            wearing a kilt that reveals a bull's tail, and followed by a servant carrying his sandals.</li>
+          <li>The seven-petal (sometimes six-petal) flower symbolizes kingship.</li>
+          <li>In the upper right corner, the image of the falcon god Horus, symbolizing power and revenge, is seen subduing his enemies with a tether.</li>
+          <li>The papyrus blossoms on the defeated foes represent Lower Egypt.</li>
+          <li>The entire scene symbolizes the conquest of Upper Egypt over Lower Egypt.</li>
+          <li>Above the palette, there is an engraving of the goddess Bat, depicted with cow horns and cow
+            ears, symbolizing her as the embodiment of the sky and the universe.</li>
+          <li>In the central area between the two goddesses, there is a palace with a catfish and a
+            chisel, which are hieroglyphic symbols representing King Narmer's name.</li>
+          <li>Below this, Narmer is shown wearing the "Red Crown of Lower Egypt," with a catfish and
+            chisel representing his name in front of him. He is followed by a servant carrying his sandals, priests, and standard-bearers leading the way.</li>
+          <li>On the far right, there are two rows of decapitated enemies, with their heads placed between their legs and their genitalia severed and placed on top.</li>
+          <li>Above the bodies, a large ship enters through open gates, symbolizing the complete conquest of the enemy.</li>
+          <li>Below this scene, there are two mythical creatures, the "serpopards," whose origins can
+           be traced back to Mesopotamian civilization. They symbolize the chaos of the universe
+           and the divine forces of nature.</li>
+          <li>In this palette, two Egyptians are shown tying up these creatures with ropes, suggesting the establishment of order and conquest.</li>
+          <li>The entwined serpopards also echo the theme of the unification of Upper and Lower Egypt. </li>
+          <li>The bottom of the obverse side of the palette, a male and a female figure are depicted next to symbols of a city wall, representing the enemy state.</li>
+          <li>On the reverse side, at the very bottom, there is an image of the king, symbolized as a
+             bull, overthrowing the city wall and defeating the enemies.</li>
+          <li>The imagery of the two mythical creatures also appears on another famous artifact, the "Two Dogs Palette," currently housed at the Ashmolean Museum, University of Oxford.</li> 
+        </ul>     
+      </p>
+      <br>
+      <p>
+        While Narmer's exact identity remains a subject of debate, he is generally believed to be Menes, the founder of the First Dynasty.  
+      </p>
+    </div>
+
+    <div class="row3">
+      <h3 id="bottom">
+        Despite having been plundered by colonial powers in the past, Egypt still possesses such an immense cultural heritage treasure trove, filling the world's largest museums to this day.
+        <mark>People there must be the proudest people, because they have so incredible civilization that worth being remembered by everyone.</mark> Africa and black people 
+        are the easiest to be neglected, despite their possessing of great heritage. <mark>In the future, I hope these heritage can be exposed to more people on the Intenet, 
+        thus more and more people may get to know and refresh their recognition of this nation.</mark>
+      </h3>
+    </div>
+  </main>
+
+  <footer>
+      Student work of Web-Based Multimedia Communications Fall 2023 Assignment 3 Page 3
+      <br>
+      <br>
+  </footer>
+  </body>
+    

@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Yijia Sun's Assignment 3 - Future Storytelling Page 3 (Afica)</title>
+   
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Bevan&display=swap');
+    </style>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Bevan&family=Satisfy&display=swap');
+    </style>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Bevan&family=Mooli&family=Satisfy&display=swap');
+    </style>
+    <link rel="stylesheet" href="style-women.css">
+</head>
+
+<body>
+  <header>
+      <img src="assets/images/future_vision.png" alt="Future Vision in block type over gradient floating squares">
+  </header>
+  
+  <main>
+    <div class="row1">
+        <h1>
+          WOMEN IMAGES: <br>
+        </h1>
+        <h2 id="title">
+            Be ourselves, Be against the stereotypes
+        </h2>
+        <br>
+        <h4>
+          <a href="http://127.0.0.1:3000/d:/DKU/DKU@Duke/assignment3-main/index">Future Vision</a> | We Recognize Ourselves
+        </h4>
+    </div>
+
+    <div class="row2">
+      <p>
+        In the vast expanse of the internet, where the exchange of ideas and the amplification of voices have become the norm, it is disheartening that women continue to confront a disquieting undercurrent of discrimination and gender bias. The digital realm, once hailed as an equalizer of voices, has unveiled a complex tapestry of disparities that persistently targets and marginalizes women. From online harassment and gender-based cyberbullying to the perpetuation of gender stereotypes, the internet is far from a safe haven for female voices. 
+        Delving deeper into this digital landscape, it is urgent that we need to dismantle these digital barriers and foster a more inclusive and equitable online world.
+      </p>
+    </div>
+
+    <div class="row2">
+      <p>
+        In fact, many women have already been making effort toward that. <strong>Whether they do as intentionally or not, those pioneering women leadership or
+        outstanding figures have been changed the world quietly.</strong>
+      </p>
+    </div>
+
+    <div class="row1">
+      <h2>
+        Sarah Storey
+      </h2>
+    </div>
+
+    <div class="row2">
+      <img src="assets/images/storey.jpg" alt="Sarah Storey with her medal" style="float: right; width: 400px; height: auto;">
+
+      <p>
+        Sarah Storey is a renowned figure who has made an indelible mark in the world of sports, celebrated not only for her incredible achievements but also for her trailblazing role as a female athlete. With a career spanning both cycling and swimming, she has amassed an astonishing tally of Paralympic gold medals, establishing herself as one of the most successful athletes in the history of the Paralympic Games. Her dedication, perseverance, and unparalleled skill have shattered gender barriers, inspiring countless women to pursue excellence in sports.        <br>
+        <br>
+        Storey's extraordinary journey is characterized by her commitment to breaking records and challenging the notion that gender should be a limiting factor in the world of athletics. Her numerous gold medals, earned across multiple Paralympic Games, serve as a testament to her unparalleled talent and determination, reinforcing the message that women can excel in traditionally male-dominated sports.        <br>
+        <br>
+        As a co-founder of AI4ALL, she has played a pivotal role in creating opportunities for underrepresented groups, including women, to access and excel in the field of artificial intelligence. Her commitment to mentorship and education has paved the way for the next generation of female leaders in technology.
+        <br>
+        <br>
+        Beyond her athletic prowess, Sarah Storey has become an advocate for gender equality in sports, using her platform to champion opportunities for women and girls in athletics. Her outstanding achievements and dedication to promoting inclusivity have left an enduring legacy, proving that gender is not a constraint to success in the world of sports.      </p>
+    </div>
+
+    <div class="row1">
+      <h2 id="Li">
+        Fei-Fei Li
+      </h2>
+    </div>
+
+    <div class="row2">
+      <img src="assets/images/Li.jpg" alt="Fei-Fei Li in her office" style="float: left; width: 400px; height: auto;">
+
+      <p>
+        Fei-Fei Li is a remarkable figure in the field of technology, recognized not only for her exceptional contributions but also for breaking barriers as a female leader in a predominantly male-dominated industry. With a passion for artificial intelligence and computer vision, she has trailblazed a path that has inspired countless women to pursue careers in technology.
+        <br>
+        <br>
+        Dr. Li's outstanding achievements include her groundbreaking work in machine learning and computer vision, which has revolutionized industries ranging from healthcare to autonomous vehicles. Her research has not only advanced the frontiers of AI but has also highlighted the importance of diversity and inclusion in tech.
+        <br>
+        <br>
+        As a co-founder of AI4ALL, she has played a pivotal role in creating opportunities for underrepresented groups, including women, to access and excel in the field of artificial intelligence. Her commitment to mentorship and education has paved the way for the next generation of female leaders in technology.
+        <br>
+        <br>
+        Fei-Fei Li's journey serves as a shining example of how women can make indelible marks on the tech industry, challenging stereotypes and reshaping the future of AI and beyond. Her work and advocacy continue to inspire and empower women to pursue their passions fearlessly in the world of technology.
+      </p>
+    </div>
+
+    <br>
+    <br>
+
+    <iframe width="1200px" height="600px" src="https://www.youtube.com/embed/lV29vATjoW4?si=3cE7f1ZwSHHr45fk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+    <div class="row3">
+      <h3 id="top">
+        <br>
+        "Feminism isn't about making women stronger. Women are already strong. It's about changing the way the world perceives that strength." - G.D. Anderson
+      <br>
+      <br>
+      </h3>
+      <h3 id="bottom">
+        In a world where change is constant, it's high time for the internet and public opinion to shift their perspective towards women. The voices that matter most are those of women themselves. It is women who recognize their own worth, potential, and the boundless contributions they bring to every facet of society. 
+        Women figures, like those we've celebrated here, have played a pivotal role in this transformative effort.
+        <mark> In ther future, I hope to see more and more figures like that showing up, more and more voice from women can be heard,
+          and the public remember that it is the collective power of women and their allies that drives progress. With more different women images flourish
+          on both the physical and digital world, a more inclusive, bias-free Internet could be realized.</mark>
+        </mark>
+      </h3>
+    </div>
+  </main>
+
+  <footer>
+      Student work of Web-Based Multimedia Communications Fall 2023 Assignment 3 Page 4
+      <br>
+      <br>
+  </footer>
+  </body>

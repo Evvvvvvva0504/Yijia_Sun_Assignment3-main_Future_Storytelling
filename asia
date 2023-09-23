@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Yijia Sun's Assignment 3 - Future Storytelling Page 2 (Asian)</title>
+   
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Bevan&display=swap');
+      </style>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Bevan&family=Satisfy&display=swap');
+    </style>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Bevan&family=Mooli&family=Satisfy&display=swap');
+    </style>
+    
+    <link rel="stylesheet" href="style-asia.css">
+    
+</head>
+
+<body>  
+  <header>
+      <img src="assets/images/future_vision.png" alt="Future Vision in block type over gradient floating squares">
+  </header>
+
+  <main>
+    <div class="row1">
+        <h1>
+          PERPETUATE OUR CULTURE ON STONE: <br>
+        </h1>
+        <h2 id="title">
+          Kaicheng Stone Classics – The Great Collection of Chinese Classics
+        </h2>
+        <br>
+        <h4>
+          <a href="http://127.0.0.1:3000/d:/DKU/DKU@Duke/assignment3-main/index">Future Vision</a> | Human Civilization | Asian Episode
+        </h4>
+    </div>
+    
+    <br>
+    <br>
+
+    <div class="row3">
+      <h3 id="top">
+        <em>
+          "When they are finally faced with the test of time and want to leave 
+          something behind, can only make the same choice as the ape man hundreds 
+          of millions of years ago: <br>
+          Carve the word on the stone!"<br> 
+        </em>
+        -- Cixin Liu, <em>The three body problem</em>
+      </h3>
+    </div>
+
+    <br>
+    <br>
+
+    <div class="row2">
+      <p>
+        The <em><strong>Kaicheng Stone Classics (开成石经)</strong></em> is referred to as 
+        the 'largest and most complete existing stone book in China' and is 
+        currently exhibited in the first exhibition hall of the Xi'an Beilin 
+        Museum. As a designated place for preserving stone inscriptions from 
+        various dynasties, the <em>Beilin</em> (Steles Forest) gradually took 
+        shape through several relocations of the <em>Kaicheng Stone Classics</em>
+        from the late Tang Dynasty to the early Northern Song Dynasty. It can be said that without 
+        the <em>Kaicheng Stone Classics</em>, there would be no Xi'an Beilin as it is today.
+      </p>
+    </div>
+
+    <div class="row2">
+      <img src="assets/images/kaichengshijing.jpg" 
+      alt="Rubbing of a surviving fragment of the Kaicheng Stone Classics. Source: Zhongguo meishu quanji bianji weiyuanhui 1993: Vol. 3, no. 84.", style="float: left; width: 500px; height: auto;">
+
+      <p>
+        In the mid-Tang Dynasty, around 1200 years ago, woodblock printing had not 
+        yet been widely used for book printing, and most books in the Tang era were 
+        copied by hand. During the reign of Emperor Daizong (唐代宗) of the Tang 
+        Dynasty, Zhang Can, a scholar in the Imperial Academy (国子监), meticulously 
+        reviewed the <em>Five Classics of Confucianism</em> (儒学五经) and transcribed
+         them onto the walls of the lecture hall of the Imperial Academy, providing 
+        model texts for the students there. However, over time, due to the peeling 
+        and defacement of the walls, the characters gradually became unclear. To 
+        address this issue, Qi Hao, the Chief of the Imperial Academy, and Wei 
+        Gongsu, a scholar in the Ministry of Rites (礼部), decided to use large, 
+        sturdy pieces of wood to create large wooden panels to be placed in front 
+        of the walls. They organized the students of the Imperial Academy to 
+        rewrite the Confucian classics on these wooden panels, which became famous 
+        as the <em>Five Classics Wall Versions</em> (五经壁本) and gained popularity
+        throughout the country.<br>
+        <br>
+        In the fourth year of the Dazhong era of Emperor Wenzong (唐文宗) of the 
+        Tang Dynasty (830 AD), Zheng Qin, an academician and lecturer of the 
+        Hanlin Academy (翰林院), observed that there had long been errors and 
+        discrepancies in the transmission of Confucian classics through 
+        handwritten copies, which were difficult to correct due to the continuity 
+        of such practices among scholars. He proposed the idea of initiating a 
+        revision of the Six Classics and initiated a project modeled after the 
+        carving of the <em>Xiping Stone Classics</em> (熹平石经) during the 
+        Eastern Han Dynasty at the Imperial Academy. The aim was to rectify the 
+        standard texts and provide exemplars for future generations. 
+      </p>
+    </div>
+
+    <div class="row2">
+      <p>
+        After four years, this proposal was finally approved, allowing for the 
+        creation of stone inscriptions of the Nine Classics and works such as the 
+        <em>Classic of Filial Piety</em> and <em>The Analects</em> in the two halls 
+        of the Lecture Hall at the National Academy. This massive cultural project 
+        was overseen by Zheng Qin, who was promoted to the position of Right Chief 
+        Minister, concurrently serving as the State Preceptor. <u>In the ninth month of 
+        the second year of the Kaicheng era, the stone classics were completed.</u><u> 
+        They included:</u>
+        <ul>
+          <li>
+              Book of Changes or I Ching (易经 Yìjīng)
+          </li>
+          <li>
+              Book of Documents (书经 Shūjīng)
+          </li>
+          <li>
+              Book of Songs (诗经 Shījīng)
+          </li>
+          <li>
+              Rites of Zhou (周礼 Zhōulǐ, originally part of the Book of Rites)
+          </li>
+          <li>
+              Ceremonies and Rites (仪礼 Yílǐ, originally part of the Book of Rites)
+          </li>
+          <li>
+              Book of Rites (礼记 Lǐjì)
+          </li>
+          <li>
+              The Commentary of Zuo (左传 Zuǒzhuàn) on the Spring and Autumn Annals
+          </li>
+          <li>
+              The Commentary of Gongyang (公羊传 Gōngyáng Zhuàn) on the Spring and Autumn Annals
+          </li>
+          <li>
+              The Commentary of Guliang (穀梁传 Gǔliáng Zhuàn) on the Spring and Autumn Annals
+          </li>
+          <li>
+              The Analects (论语 Lúnyǔ)
+          </li>
+          <li>
+              Classic of Filial Piety (孝经 Xiàojīng)
+          </li>
+          <li>
+              Erya (尔雅 Ěryǎ)
+          </li>
+        </ul>
+        <p>
+          <u> Totally 160 volumes, with a total of 650,252 characters inscribed.</u>
+        </p>
+      </p>
+    </div>
+
+    <div class="row1">
+      <h2>
+        Confucius Institute
+      </h2>   
+    </div>
+
+    <div class="row2">
+      <img src="assets/images/kongzixueyuan.jpg" 
+        alt="Confucius Institute", style="float: right; width: 600px; height: auto;">
+      <img src="assets/images/children in kongzixueyuan.webp" 
+        alt="Children in Confucius Institute", style="float: left; width: auto; height: 280px;">  
+      
+      <p>
+        The Confucius Institute is a global educational organization that promotes 
+        Chinese language and culture. It is named after Confucius, the renowned 
+        Chinese philosopher whose teachings have had a profound influence on 
+        Chinese society and culture for over two millennia. The primary mission of 
+        Confucius Institutes is <u>to facilitate the teaching and learning of Chinese 
+        language, foster cultural exchange, and enhance mutual understanding 
+        between China and other countries</u>. So far, it has established approximately 
+        550 Confucius Institutes and 1,193 Confucius Classrooms established in more 
+        than 160 countries and regions around the world, including the United States, 
+        the United Kingdom, Australia, Canada, and numerous countries in Europe, Asia, 
+        Africa, and Latin America.<br>
+        <br>
+        However, it is worth noting that that Confucius Institutes have faced some 
+        controversies and criticisms, particularly related to issues of academic 
+        freedom and influence. It is criticized as <a href="https://thehill.com/opinion/national-security/3729453-time-to-shut-down-all-confucius-institutes-whatever-they-might-be-called/" target="_blank">vehicles for Chinese espionage and propaganda</a>. 
+        These concerns have led to the closure or restructuring of some institutes in 
+        certain countries. For example, it is counted that a total of 111 Confucius 
+        Institutes have closed or are in the process of closing in the United States.
+        It still exists challenges for a unique culture to be promoted globally. 
+      </p>
+    </div>    
+
+    <div class="row3">
+      <h3 id="bottom">
+        Liu, Cixin in his famous fiction <em>The Three Body Problem</em> claimed that the best way to store human 
+        heritage and civilization is to "carve the words on the stone". <mark>In the future, I hope to see more and more 
+        culture can be carved on the stone, whether physically, digitally, or mentally.</mark> <u>The memory of stone will be
+        shining as capsule that perpetuates human civilization, especially for those which are marginalized or 
+        maliciously speculated.</u> <mark>The more various, diverse the civilization recoreded, the mroe inclusive, bias-free the
+        Internet.</mark>
+      </h3>
+    </div>  
+  </main>
+
+  <footer>
+    Student work of Web-Based Multimedia Communications Fall 2023 Assignment 3 Page 2
+    <br>
+    <br>
+  </footer>
+</body>
